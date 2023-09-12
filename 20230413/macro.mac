@@ -1,0 +1,42 @@
+#014-015 mbps i 22/2
+umv x -6.65
+multiexp 2 1800 1805 
+
+#016-017 mnps irr 22/2
+umv x 0.35 
+multiexp 2 1800 1805 
+
+#018-019 magnps xcf 22/2
+umv x 7.39 
+multiexp 2 1800 1805
+
+#020-021 hsa 1mg/ml 
+umv x 14.35
+multiexp 2 1800 1805
+
+#022-023 h2o mq
+umv x 17.9
+multiexp 2 1800 1805
+
+#024 AuNPs 
+umv x -20.65
+multiexp 1 1800 1805
+
+#025 PBS 1x
+umv x -17.25
+multiexp 1 1800 1805
+
+#026 MNPs xcc 27/2
+umv x -13.75
+multiexp 1 1800 1805
+
+
+
+
+
+#009 AuNP 600 
+#010 AuNP 1800
+#PBS 1x 1800
+#012 mnps cc 27/2 1800
+#013 Agbeh
+#027 Agbeh

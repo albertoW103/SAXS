@@ -1,0 +1,28 @@
+#014-015 mbps i 22/2
+
+
+#016-017 mnps irr 22/2
+
+#018-019 magnps xcf 22/2
+
+
+#020-021 hsa 1mg/ml 
+
+#022-023 h2o mq
+
+
+#024 AuNPs 
+
+
+#025 PBS 1x
+
+#026 MNPs xcc 27/2
+
+
+
+#009 AuNP 600 
+#010 AuNP 1800
+#PBS 1x 1800
+#012 mnps cc 27/2 1800
+#013 Agbeh
+#027 Agbeh 
